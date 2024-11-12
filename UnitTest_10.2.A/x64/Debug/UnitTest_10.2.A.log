@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  UnitTest_10.2.A.cpp
+C:\Users\VITUK\source\repos\lab_10.2.A\lab_10.2.A\lab_10.2.A.cpp(193,6): warning C4101: 'i': unreferenced local variable
+  (compiling source file '/UnitTest_10.2.A.cpp')
+  
+C:\Users\VITUK\source\repos\lab_10.2.A\lab_10.2.A\lab_10.2.A.cpp(42,1): warning C4715: 'Student::return_major': not all control paths return a value
+     Creating library C:\Users\VITUK\source\repos\lab_10.2.A\x64\Debug\UnitTest_10.2.A.lib and object C:\Users\VITUK\source\repos\lab_10.2.A\x64\Debug\UnitTest_10.2.A.exp
+  UnitTest_10.2.A.vcxproj -> C:\Users\VITUK\source\repos\lab_10.2.A\x64\Debug\UnitTest_10.2.A.dll

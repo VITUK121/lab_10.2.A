@@ -1,0 +1,4 @@
+﻿  lab_10.2.A.cpp
+C:\Users\VITUK\source\repos\lab_10.2.A\lab_10.2.A\lab_10.2.A.cpp(193,6): warning C4101: 'i': unreferenced local variable
+C:\Users\VITUK\source\repos\lab_10.2.A\lab_10.2.A\lab_10.2.A.cpp(42,1): warning C4715: 'Student::return_major': not all control paths return a value
+  lab_10.2.A.vcxproj -> C:\Users\VITUK\source\repos\lab_10.2.A\x64\Debug\lab_10.2.A.exe
